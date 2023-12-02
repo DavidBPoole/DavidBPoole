@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Poole
 ===================================================================================================================================
+I'm a motivated and committed life-long learner devoted to family and career in the middle TN area since 2003. Having worked and paid my way through both a bachelors and masters degree, and software engineering school while maintaining a full time job and balancing family life, I am driven and dedicated to pursuing my passion in software engineering and development.
 
 Front-End Developer apprentice at Nashville Software School
 -----------------------------------------------------------
