@@ -5,8 +5,7 @@ I'm a motivated and committed life-long learner devoted to family and career in 
 Front-End Developer apprentice at Nashville Software School
 -----------------------------------------------------------
 
-* 🔭 I’m currently working on a project called "Level Up" (https://github.com/DavidBPoole/levelup-server | https://github.com/DavidBPoole/levelup-client).
-
+* I’m currently working on a group project called "Rare Publishing".
 ### Skills
 
 
