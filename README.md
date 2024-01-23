@@ -5,7 +5,7 @@ I'm a motivated and committed life-long learner devoted to family and career in 
 Front-End Developer apprentice at Nashville Software School
 -----------------------------------------------------------
 
-* I’m currently working on a group project called "Rare Publishing".
+* I currently wrapped up a solo assessment project called "Bangazon - Hip Hop Pizza & Wangs". which is a point of sale restaurant application to streamline, automate and increase business volume and sales.
 ### Skills
 
 
