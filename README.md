@@ -5,7 +5,7 @@ I'm a motivated and committed life-long learner devoted to family and career in 
 Front-End Developer apprentice at Nashville Software School
 -----------------------------------------------------------
 
-* I'm currently working on a collabaorative hackathon project between E23 and E25 where we are building a travel oriented expense tracker with one to many and many to many relationships using JS React and Python/Django.
+* I'm currently working on a collaborative hackathon project between E23 and E25 where we are building a travel oriented expense tracker with one to many and many to many relationships using JS React and Python/Django.
 ### Skills
 
 
