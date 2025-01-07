@@ -5,7 +5,7 @@ I'm a motivated and committed life-long learner devoted to family and career in 
 Front-End Developer apprentice at Nashville Software School
 -----------------------------------------------------------
 
-* I'm currently working to support my family and practicing my javascript, python/django, css, and html skills learned over the time spent at Nashville Software School class of March 2024.
+* I'm currently working full-time to support my family and practicing my javascript, python/django, css, and html skills learned over my time spent at Nashville Software School class of March 2024.
 ### Skills
 
 
